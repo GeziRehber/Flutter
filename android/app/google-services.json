@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "440786531495",
+    "firebase_url": "https://eklesilguncelle.firebaseio.com",
+    "project_id": "eklesilguncelle",
+    "storage_bucket": "eklesilguncelle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440786531495:android:81412d175002f0c5f75782",
+        "android_client_info": {
+          "package_name": "com.deneme.veritabanieklesilgncelle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440786531495-5o2ae7qq3geu4cg1aa2o06dnn2oa3imd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6J2-rKtVJAQ2GRmfLZFCa9-Owt0Vzq2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440786531495-5o2ae7qq3geu4cg1aa2o06dnn2oa3imd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440786531495:android:5679aef40f50ecbdf75782",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440786531495-5o2ae7qq3geu4cg1aa2o06dnn2oa3imd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6J2-rKtVJAQ2GRmfLZFCa9-Owt0Vzq2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440786531495-5o2ae7qq3geu4cg1aa2o06dnn2oa3imd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
